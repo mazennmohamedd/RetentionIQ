@@ -1,4 +1,5 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR_STREAMLIT_APP_URL](https://retentioniq-hxgqmfqj7vtfyxtf9hmuez.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]( https://retentioniq-hxgqmfqj7vtfyxtf9hmuez.streamlit.app/)
+
 RetentionIQ is an end-to-end machine learning project designed to predict customer churn and help businesses identify customers who may be at risk of leaving.
 
 The project combines data analysis, machine learning, interactive visualizations, and model interpretation in a Streamlit dashboard.
