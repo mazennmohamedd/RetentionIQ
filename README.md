@@ -1,5 +1,3 @@
-er Churn Prediction
-
 RetentionIQ is an end-to-end machine learning project designed to predict customer churn and help businesses identify customers who may be at risk of leaving.
 
 The project combines data analysis, machine learning, interactive visualizations, and model interpretation in a Streamlit dashboard.
